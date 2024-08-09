@@ -57,7 +57,7 @@ This repository is licensed under [license name](License content URL).
 How to choose your license: 
 
 - [Licensing a repository - GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
-- [Choose an open source license - Choose a License]([Choose an open source license](https://choosealicense.com/))
+- [Choose an open source license - Choose a License](https://choosealicense.com/)
 - [License Selector - ufal.github.io](https://ufal.github.io/public-license-selector/)
 
 ---
