@@ -36,8 +36,8 @@
 
 - What's the size of data for each topic/type/category?
 
-  - For example, there are `1.23G` of `.json` files named `data_123.json` under `dataset` directory.
-  - You can give a tree structure of your dataset by using `tree` in your terminal.
+  - For example, there are `1.23G` of `.json` files named `data_123.json` under `dataset_name` directory.
+  - You can give a tree structure of your dataset by using [`tree`](https://www.geeksforgeeks.org/tree-command-unixlinux/) in your terminal. 
 
 ## How to Access Your Dataset?
 
@@ -62,10 +62,18 @@ How to choose your license:
 
 ---
 
-## What else do you need to do on your repo page?
+## What else can you do in your repo?
 
-- On the right column that shows up repo information, click the gear icon ⚙️ to set up your repo:
+- On the right column that shows repo information, click the gear icon ⚙️ to set up your repo:
   - Description: A short sentence about the repo
   - Website: The link to the dataset's official webpage 
   - Topics: Help others to find your repo. For example, setting "corpus", "australia", "dataset" can help people who are looking for Australian datasets or corpora.
 
+- Find and add `.gitignore` template:
+  - [gitignore - GitHub](https://github.com/github/gitignore)
+
+- How to contribute to your repo?
+  
+  - Provide your contact information here.
+  
+  
