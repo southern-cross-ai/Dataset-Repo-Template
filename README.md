@@ -10,7 +10,7 @@
 
   For example, if you need to register an account, fill in an application form on its website, or send emails to the data owner, please record any necessary information 📝.
 
-- If you are not confident about its usage, we suggest setting your repo to **private** and discussing such issues with our organiser [Mattew](Matthew.Altenburg@anu.edu.au).
+- If you are not confident about its usage, we suggest setting your repo to **private** and discussing such issues with our organiser Mattew va Matthew.Altenburg@anu.edu.au.
 
 ## Overview of the Dataset
 
