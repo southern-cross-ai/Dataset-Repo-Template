@@ -1,5 +1,12 @@
 # Dataset Name
 
+## Data Format
+Plase process your data by transforming it into dataframe and save it as csv. We cut each text paragraph into pieces and store in each cell.
+
+Our template dataset is:
+
+[The Gutenburg dataset](https://huggingface.co/datasets/SouthernCrossAI/Project_Gutenberg_Australia)
+
 ## (Optional) Announcement
 
 - Acknowledge people if there are any **usage limitations** or **law regulations** about the dataset.
