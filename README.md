@@ -1,5 +1,12 @@
 # Dataset Name
 
+## Data Format
+Plase process your data by transforming it into dataframe and save it as csv. We cut each text paragraph into pieces and store in each cell.
+
+Our template dataset is:
+
+[The Gutenburg dataset](https://huggingface.co/datasets/SouthernCrossAI/Project_Gutenberg_Australia)
+
 ## (Optional) Announcement
 
 - Acknowledge people if there are any **usage limitations** or **law regulations** about the dataset.
@@ -10,7 +17,7 @@
 
   For example, if you need to register an account, fill in an application form on its website, or send emails to the data owner, please record any necessary information 📝.
 
-- If you are not confident about its usage, we suggest setting your repo to **private** and discussing such issues with our organiser [Mattew](Matthew.Altenburg@anu.edu.au).
+- If you are not confident about its usage, we suggest setting your repo to **private** and discussing such issues with our organiser Mattew via Matthew.Altenburg@anu.edu.au.
 
 ## Overview of the Dataset
 
